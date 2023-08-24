@@ -4,11 +4,9 @@
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
-        
-
-      }
-      .item{
-        width: 100px;
+  }
+     .item{
+      width: 100px;
         height: 100px;
         background-color: green;
         font-size: 30px;
