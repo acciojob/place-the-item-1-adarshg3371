@@ -1,49 +1,25 @@
 
 /* Your CSS Code here. */
- .container{
+ .holder{
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
         
 
       }
-      .box1{
+      .item{
         width: 100px;
         height: 100px;
         background-color: green;
         font-size: 30px;
       }
-      .box2{
+      .item1{
         width: 100px;
         height: 100px;
-        background-color: green;
+        background-color:red;
         font-size: 30px;
       }
-      .box3{
-      width: 100px;
-        height: 100px;
-        background-color:  green;
-        font-size: 30px;
-      }
-      .box4{
-      width: 100px;
-        height: 100px;
-        background-color:  green;
-        font-size: 30px;
-      }
-      .box5{
-      width: 100px;
-        height: 100px;
-        background-color:  green;
-        font-size: 30px;
-      }
-      .box6{
-      width: 100px;
-        height: 100px;
-        background-color: red;
-        font-size: 30px;
-      }
-      .box7{
+      .item2{
       width: 100px;
         height: 100px;
         background-color: blue;
